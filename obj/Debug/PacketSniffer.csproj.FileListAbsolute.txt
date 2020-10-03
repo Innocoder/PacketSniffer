@@ -1,0 +1,12 @@
+C:\Users\ME\source\repos\PacketSniffer\bin\Debug\PacketSniffer.exe.config
+C:\Users\ME\source\repos\PacketSniffer\bin\Debug\PacketSniffer.exe
+C:\Users\ME\source\repos\PacketSniffer\bin\Debug\PacketSniffer.pdb
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.csprojAssemblyReference.cache
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.register.resources
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.Properties.Resources.resources
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.csproj.GenerateResource.cache
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.csproj.CoreCompileInputs.cache
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.exe
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.pdb
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.Login.resources
+C:\Users\ME\source\repos\PacketSniffer\obj\Debug\PacketSniffer.Welcome.resources
